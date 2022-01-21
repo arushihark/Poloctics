@@ -1,75 +1,17 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+https://devpost.com/software/politx
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Inspiration: As first time voters, our team realized the effort needed to become informed voters, and so we aimed to make such information more accessible. Our web app aims to highlight the actions of incumbent politicians in their time in office to bring both awareness and accountability.
 
-## Available Scripts
+What it does: Given an address, we direct the user to their list of governing politicians, from which they will be able to view basic information of the politician along with the bills they endorsed. We also added a functionality to be able to search certain politicians and view the bills they introduced.
 
-In the project directory, you can run:
+How we built it: We used the React JavaScript library in order to build our user interface, which allowed us to expedite the process of. creating our web app. We also wanted to eventually incorporate the element of categorizing bills and other information regarding a politicians policies/views through a Google Cloud AutoML model that we trained using a Congressional Bills database.
 
-### `yarn start`
+Challenges we ran into: We had difficulty with some of the mechanics of starting an application from scratch. Many of us had little no experience with Hackathons and with the languages/tools we were working with, so in order to complete our project, we had a steep learning curve to overcome. Collaborating online was difficult, but it was inspiring and fun to work with each other towards a goal.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Accomplishments that we're proud of: We are happy with the simplicity of our UI since the objective was to remove the obstacles and obscurity associated with becoming an informed voter.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+What we learned: It was an extremely educational experience to conceive an idea and bring it to fruition. Working together was also rewarding since everyone brought unique skills and perspectives to the table, which all contributed to the development of a project that we would not have been able to produce on our own.
 
-### `yarn test`
+What's next for Poloctics: We would like to add more features such as better categorization and additional information regarding the history of politicians. Additionally, we would like to move from simply increasing accessibility towards increasing action by incorporating a form/address to which constituents would be able to directly contact their politicians regarding bills they believe strongly about. Another feature would be incorporating a database for state legislatures to also increase the ease of access to that information.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Poloctics
-Increasing accessibility to local congressional officials through data analysis
->>>>>>> 7069ee9904c254d1296c09a959923d033900356a
+Additional YouTube demo, in case the one above does not work: https://youtu.be/fwjjapVINlk
