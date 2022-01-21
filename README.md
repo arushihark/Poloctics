@@ -1,3 +1,5 @@
+# Poloctics
+
 https://devpost.com/software/politx
 
 Inspiration: As first time voters, our team realized the effort needed to become informed voters, and so we aimed to make such information more accessible. Our web app aims to highlight the actions of incumbent politicians in their time in office to bring both awareness and accountability.
